@@ -7,4 +7,3 @@
 0.0.0.0 fau01.ps5.update.playstation.net
 0.0.0.0 djp01.ps5.update.playstation.net
 0.0.0.0 fjp01.ps5.update.playstation.net
-0.0.0.0 sgst.prod.dl.playstation.net
